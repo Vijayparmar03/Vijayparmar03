@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Vijay Parmar
 
-<!--
-**Vijayparmar03/Vijayparmar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
+🔭 I’m currently working on  
+Building scalable web applications using Laravel and REST APIs.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on  
+Backend projects, ERP systems, and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with  
+System design, performance optimisation, and cloud deployment.
+
+🌱 I’m currently learning  
+Advanced Laravel, system architecture, and cloud technologies.
+
+💬 Ask me about  
+Laravel, PHP, MySQL, APIs, and debugging.
+
+⚡ Fun fact  
+I love solving real-world problems with simple and clean code.
+
+---
+
+## 🌐 Socials:
+- Instagram: https://instagram.com/yourusername  
+- LinkedIn: https://linkedin.com/in/yourusername  
+- Email: your@email.com  
+
+---
+
+## 💻 Tech Stack:
+- PHP, Laravel
+- JavaScript, jQuery
+- HTML, CSS, Bootstrap
+- MySQL
+- REST APIs
+- Git & GitHub
